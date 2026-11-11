@@ -1,0 +1,12 @@
+[mcp_servers.tapd]
+command = "npx"
+args = [
+    "-y",
+    "@xihe-lab/tapd-mcp-server@latest",
+]
+
+[mcp_servers.tapd.env]
+TAPD_ACCESS_TOKEN = ""
+TAPD_DEFAULT_WORKSPACE_ID = "35572188"
+TAPD_API_BASE_URL = "https://api.tapd.cn"
+TAPD_NICK_NAME = "kailiang.qiu"

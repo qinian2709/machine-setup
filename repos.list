@@ -1,0 +1,18 @@
+# path | clone url | branch
+# 只列 GitHub 上的测试 / demo 仓库。不要写 token。不要加前后端 / H5 / 小程序业务仓。
+
+# ClassInShop tests
+classinshop/classinshop-test-suite|https://github.com/qinian2709/classinshop-test-suite.git|test0616
+classinshop/classinshop-test-reports|https://github.com/qinian2709/classinshop-test-reports.git|main
+
+# TeacherIn tests
+TI/teacherin-test-suite|https://github.com/qinian2709/teacherin-test-suite.git|dev
+
+# ClassIn Teacher Buddy tests (local folder name: gorw)
+gorw/classin-teacher-buddy-test-suite|https://github.com/qinian2709/classin-teacher-buddy-test-suite.git|dev
+
+# Agent test / demo
+agent-demo|https://github.com/qinian2709/agent-demo.git|main
+agent-mutation-test|https://github.com/qinian2709/agent-mutation-test.git|main
+agent-test|https://github.com/qinian2709/agent-test.git|main
+web-test-agent|https://github.com/qinian2709/web-test-agent.git|main

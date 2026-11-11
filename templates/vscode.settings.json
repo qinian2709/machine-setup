@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".cursor": true,
+    ".codebase-memory-cache": true,
+    ".pnpm-store": true,
+    "**/.DS_Store": true
+  },
+  "search.exclude": {
+    ".cursor": true,
+    ".codebase-memory-cache": true,
+    ".pnpm-store": true
+  }
+}

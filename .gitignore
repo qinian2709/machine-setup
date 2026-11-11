@@ -1,0 +1,5 @@
+secrets/
+extras/cc-switch/
+__pycache__/
+*.py[cod]
+
